@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is implemented using JWT authentication in React. The login form using Formik, a higher order component that helps with managing form state, validation, error messages, and form submission. Validation is done with the Yup object schema validator which hooks into Formik via the handy validationSchema prop.
 
 ## Available Scripts
 
