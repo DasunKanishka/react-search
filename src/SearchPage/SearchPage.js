@@ -39,8 +39,13 @@ class SearchPage extends React.Component {
         return(
             <div className="container">
                 <div className="row">
+                    
                     <div className="col-sm-12">
+                        <p>&nbsp;</p>
+
                         <input className="form-control" type="text" placeholder="Search..." onChange={ (e) => this.searchData(e) } />
+
+                        <p>&nbsp;</p>
                     </div>
 
                     <div className="col-sm-12 table-responsive">

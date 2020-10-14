@@ -12,6 +12,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
       </header>
 
+      {/* There is an issue with the fakebackend which I couldn't fix. So you have to uncomment LoginPage component to see the login page. */}
       {/* <LoginPage /> */}
       <SearchPage />
     </div>

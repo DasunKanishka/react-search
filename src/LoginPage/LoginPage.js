@@ -18,6 +18,8 @@ class LoginPage extends React.Component {
         return (
             <div className="container">
                 <div className="row justify-content-center">
+                    <div className="col-sm-12"><p>&nbsp;</p></div>
+                    
                     <div className="col-sm-4">
                         <h2>Login</h2>
 
